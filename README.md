@@ -4,10 +4,10 @@
 <h4>(PC Template in progress)</h4>
 
 <h2>Technologies</h2>
-      HTML 
-      CSS 
-      Javascript 
-      swiper
+      HTML <br>
+      CSS  <br>
+      Javascript  <br>
+      swiper  <br>
 
 
       
